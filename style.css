@@ -1,0 +1,115 @@
+body{
+    margin: 0!important;
+    padding: 0;
+}
+
+/*------------
+    NAV-BAR
+-------------*/
+#nav-bar{
+
+    width: 100%;
+
+    position: fixed;
+
+    margin-top: 0;
+
+    background-color: #e0ebe8;
+    color: black;
+}
+
+.nav-bar-list{
+    width: 100%;
+
+    display: inline-flex;
+
+    margin-top: 16px;
+}
+
+.nav-bar-list .item-list{
+    list-style-type: none;
+}
+
+/*------------
+    WELCOME-SECTION
+-------------*/
+
+#welcome-section{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-grow: 1;
+
+    background-color: #e0ebe8;
+}
+
+h4{
+    color:#004d26;
+}
+
+
+/*------------
+  PROJECTS
+-------------*/
+.list-of-projects{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list-of-projects .item-list{
+    list-style-type: none;
+}
+
+.list-of-projects a{
+    display: flex;
+    flex-direction: column;
+}
+
+.project-img{
+    width: 200px;
+}
+
+.list-item{
+    height: 350px;
+    overflow: scroll;
+}
+
+
+/*------------
+  Contact
+-------------*/
+.media-list{
+    justify-content: center;
+    list-style: none;
+}
+
+.media-img{
+    width: 100px;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+.media-img:hover{
+    margin-top: 5px;
+}
+
+
+
+/*------------
+  FOOTER
+-------------*/
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.link-footer{
+    color: white;
+}
+
+
+
+
+
