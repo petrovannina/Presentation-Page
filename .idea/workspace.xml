@@ -18,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="105" column="91" lean-forward="false" selection-start-line="105" selection-start-column="91" selection-end-line="105" selection-end-column="91" />
+            <state relative-caret-position="1464">
+              <caret line="75" column="80" lean-forward="false" selection-start-line="75" selection-start-column="80" selection-end-line="75" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -206,12 +206,20 @@
       <option name="presentableId" value="Default" />
       <updated>1559224349666</updated>
       <workItem from="1559224351000" duration="1267000" />
-      <workItem from="1559297790853" duration="141000" />
+      <workItem from="1559297790853" duration="967000" />
     </task>
+    <task id="LOCAL-00001" summary="add address of the projects.">
+      <created>1559298113519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559298113519</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1408000" />
+    <option name="totallyTimeSpent" value="2234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -253,6 +261,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add address of the projects." />
+    <option name="LAST_COMMIT_MESSAGE" value="add address of the projects." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -268,8 +280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="105" column="91" lean-forward="false" selection-start-line="105" selection-start-column="91" selection-end-line="105" selection-end-column="91" />
+        <state relative-caret-position="1464">
+          <caret line="75" column="80" lean-forward="false" selection-start-line="75" selection-start-column="80" selection-end-line="75" selection-end-column="80" />
           <folding />
         </state>
       </provider>
