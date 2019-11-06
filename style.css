@@ -3,6 +3,10 @@ body{
     padding: 0;
 }
 
+.row {
+  margin-bottom: 20px;
+}
+
 /*------------
     NAV-BAR
 -------------*/
@@ -16,7 +20,7 @@ body{
 
     background-color: #e0ebe8;
     color: black;
-}
+} 
 
 .nav-bar-list{
     width: 100%;
@@ -72,7 +76,8 @@ h4{
 
 .list-item{
     height: 350px;
-    overflow: scroll;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 
 
