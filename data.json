@@ -1,0 +1,29 @@
+{
+  "name": "Nina Petrovan",
+  "date-of-birth": "15.06.1994",
+  "email": "petrovan.nina@gmail.com",
+  "about": [
+    {
+      "description": "I'm communicative, dynamic, and determined. I have a constant desire to progress and learn new things, with a positive attitude that helps me adapt quickly to difficult situations and overcome my challenges. "
+    },
+    {
+      "description" : "I also have a good knowledge of several programming languages, knowledge that I have acquired independently, as I am a self-taught person. I am willing and able to take on new challenges so don't esitate to contact me."
+    }
+  ],
+  "location": [
+    {
+      "country": "Romania",
+      "city": "Cluj-Napoca"
+    }
+  ],
+  "socials": [
+    {
+      "name": "linkedin",
+      "link": "https://www.linkedin.com/in/petrovan-nina-ba0135188/"
+    },
+    {
+      "name": "github",
+      "link": "https://github.com/petrovannina"
+    }
+  ]
+}
